@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @someone187
 - 👀 I’m interested in Modding, Networking and IT Security
-- 🌱 I’m currently learning C++/Python/Kotlin
+- 🌱 I’m currently learning Ruby/Python/SQL/Kotlin
 - 📫 How to reach me: der_pikachu187 on Discord
