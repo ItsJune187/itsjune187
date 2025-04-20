@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @someone187
+- 👋 Hi, I’m @ItsJune187
 - 👀 I’m interested in Modding, Networking and IT Security
 - 🌱 I’m currently learning Ruby/Python/SQL/Kotlin/Lua
 - ❤️ I love Lua
