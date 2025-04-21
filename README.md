@@ -2,4 +2,4 @@
 - 👀 I’m interested in Modding, Networking and IT Security
 - 🌱 I’m currently learning Ruby/Python/SQL/Kotlin/Lua
 - ❤️ I love Lua
-- 📫 How to reach me: der_pikachu187 on Discord
+- 📫 How to reach me: business@itsjune.de
